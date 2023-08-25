@@ -20,7 +20,8 @@ It also helped in the estimating of future revenue based on past performance and
 1. The business’s profit margin was fairly good which made the bike and accessory sales a profitable business.
 
 ## **Recommendations**
-1. More marketing should be done in Canada and European countries like Germany, the United Kingdom and France so as to increase the order for the products which will also increase revenue and profit for the business
+1. More marketing should be done in Canada and European countries like Germany, the United Kingdom and France so as to increase the order for the products which will also increase revenue
+   and profit for the business
 1. The clothing products should be improved in both marketing and quality in order to increase their demand on the market.
 1. Promotion sales too can be done to increase the sales of the products
 1. Different types of bikes should be manufactured to suit the senior age group to also increase their demand for bikes.
