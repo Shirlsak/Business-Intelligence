@@ -9,9 +9,9 @@ The analysis was based on various categories in relation to the data set such as
 It also helped in the estimating of future revenue based on past performance and trends from the dataset for businesses so as to help them make decisions effectively .
 
 ## **Key Findings**
-➢ The United States and Australia had the highest orders for bike and accessory products which generated high revenue and profit for the business.
-➢ Canada was the country with the least generated profit and revenue.
-➢ Bikes and accessories were in high demand as compared to the demand for clothing.
+*The United States and Australia had the highest orders for bike and accessory products which generated high revenue and profit for the business.
+*Canada was the country with the least generated profit and revenue.
+*Bikes and accessories were in high demand as compared to the demand for clothing.
 ➢ The accessories were products were the highest ordered product but the bikes generated more profit than the accessories.
 ➢ The adult age group (35-64) patronized most of the bikes and accessories and this intended generated a lot of revenue and profit for the business
 ➢ The senior age group (64+) were the least in generating revenue and profit due to low patronage.
