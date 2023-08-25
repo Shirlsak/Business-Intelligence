@@ -1,4 +1,4 @@
-# **EXECUTIVE SUMMARY**
+## **EXECUTIVE SUMMARY**
 
 Bikes are increasingly becoming a preferred mode of transportation in recent times due to the increased cost of fuel and gas across the globe, most especially after the Covid-19 pandemic. 
 With the rise in demand for the use of bikes, the cost of bikes and their accessories have also increased. Therefore analysing the sales of bikes and their accessories will be beneficial 
