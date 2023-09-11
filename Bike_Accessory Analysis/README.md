@@ -12,7 +12,7 @@ It also helped in the estimating of future revenue based on past performance and
 1. The United States and Australia had the highest orders for bike and accessory products which generated high revenue and profit for the business.
 1. Canada was the country with the least generated profit and revenue.
 1. Bikes and accessories were in high demand as compared to the demand for clothing.
-1. The accessories were products were the highest ordered product but the bikes generated more profit than the accessories.
+1. The accessories were the highest ordered product but the bikes generated more profit than accessories.
 1. The adult age group (35-64) patronized most of the bikes and accessories and this intended generated a lot of revenue and profit for the business
 1. The senior age group (64+) were the least in generating revenue and profit due to low patronage.
 1. More males purchased these products as compared to females.
